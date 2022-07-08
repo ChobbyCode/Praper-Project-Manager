@@ -1,6 +1,6 @@
 BSD 2-Clause License
 
-Copyright (c) 2022, Jacob Hadfield
+Copyright (c) 2022, ChobbyCode
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
