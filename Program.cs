@@ -12,9 +12,9 @@ namespace Praper_Project_Manager
         {
             //BSD 2 - Clause License
 
-            //Copyright(c) 2022, Jacob Hadfield All rights reserved.
+            //Copyright(c) 2022, ChobbyCode All rights reserved.
             Console.WriteLine("BSD 2 - Clause License");
-            Console.WriteLine("Copyright(c) 2022, Jacob Hadfield All rights reserved.");
+            Console.WriteLine("Copyright(c) 2022, ChobbyCode All rights reserved.");
 
             System.Threading.Thread.Sleep(2000);
 
